@@ -1,5 +1,0 @@
-this is hello2
-
-compare
-
-repo
